@@ -5,7 +5,7 @@
 Simple multi-node OpenStack + Kubernetes deployment using Ubuntu 24.04.
 Kubernetes is deployed using OpenStack Magnum.
 This profile provisions one controller node and a user-defined number of compute nodes.
-Default Magnum scripts and settings are used for the deployment.
+Default Magnum scripts and settings are used for the deployment.asldfk
 
 This profile is adjusted for gitea deployment on CloudLab.
 
